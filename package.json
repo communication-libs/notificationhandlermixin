@@ -1,0 +1,27 @@
+{
+  "name": "communication_notificationhandlermixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a httpexecutor-based Service that will listen for Communication notifications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/notificationhandlermixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "notification",
+    "handler",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/notificationhandlermixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/notificationhandlermixin#readme"
+}
